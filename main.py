@@ -11,7 +11,7 @@ class Main:
         self.GUILD_ID = input('[>] Guild ID: ')
         self.CHANNEL_ID = input('[>] Channel ID: ')
         self.MESSAGE_ID = input('[>] Message ID: ')
-        REASON = input(
+        REASON = input(3
             '\n[1] Illegal content\n'
             '[2] Harassment\n'
             '[3] Spam or phishing links\n'
