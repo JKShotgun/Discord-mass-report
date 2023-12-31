@@ -8,7 +8,7 @@ import requests
 
 class Main:
     def __init__(self):
-        self.GUILD_ID = input('[>] Guild ID: ')
+        self.GUILD_ID = input('[>] 1166678213217501184: ')
         self.CHANNEL_ID = input('[>] Channel ID: ')
         self.MESSAGE_ID = input('[>] Message ID: ')
         REASON = input(3
